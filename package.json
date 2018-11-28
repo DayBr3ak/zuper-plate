@@ -1,5 +1,9 @@
 {
   "name": "zuper-plate",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/DayBr3ak/zuper-plate.git"
+  },
   "version": "1.0.7",
   "gsversion": "9.25",
   "description": "",
